@@ -1,0 +1,9 @@
+8
+E=Te
+e=+Te
+e=@
+T=Ft
+t=*Ft
+t=@
+F=(E)
+F=i
